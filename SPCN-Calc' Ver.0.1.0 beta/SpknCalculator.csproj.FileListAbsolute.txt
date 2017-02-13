@@ -1,0 +1,9 @@
+C:\Users\NEC-PCuser\Documents\Visual Studio 2015\Projects\test\test\bin\Release\test.exe.config
+C:\Users\NEC-PCuser\Documents\Visual Studio 2015\Projects\test\test\bin\Release\test.exe
+C:\Users\NEC-PCuser\Documents\Visual Studio 2015\Projects\test\test\bin\Release\test.pdb
+C:\Users\NEC-PCuser\Documents\Visual Studio 2015\Projects\test\test\obj\Release\SpknCalculator.csprojResolveAssemblyReference.cache
+C:\Users\NEC-PCuser\Documents\Visual Studio 2015\Projects\test\test\obj\Release\test.Form1.resources
+C:\Users\NEC-PCuser\Documents\Visual Studio 2015\Projects\test\test\obj\Release\test.Properties.Resources.resources
+C:\Users\NEC-PCuser\Documents\Visual Studio 2015\Projects\test\test\obj\Release\SpknCalculator.csproj.GenerateResource.Cache
+C:\Users\NEC-PCuser\Documents\Visual Studio 2015\Projects\test\test\obj\Release\test.exe
+C:\Users\NEC-PCuser\Documents\Visual Studio 2015\Projects\test\test\obj\Release\test.pdb
