@@ -1,2 +1,4 @@
 # SPCN-Calculator
-電卓を作ろうみたいなサイトを見ないでリファレンスの参考書のみで電卓の完成に向けてがむしゃらに努力する普通科高校卒の大学生の制作過程が垣間見れるリポジトリ。
+Not Term, Not Capture(like "Creating Calc by C#!!"), Only C# Official & Unofficial Reference.
+I made it.
+P.S I'm Sorry. There are no any Code.Because, It is so so so so... and so too so ugly for every one on earth.
